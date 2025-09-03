@@ -1,1 +1,4 @@
 com/example/servicea/Application.class
+com/example/servicea/HelloController.class
+com/example/servicea/UserController.class
+com/example/servicea/UserController$User.class
